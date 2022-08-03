@@ -14,4 +14,4 @@ params:
   MYSQL-BACKUPS-APP-PASSCODE:
 
 run:
-  path: pull-source-code/run-mysql-backup.sh
+  path: pull-source-code/test.sh
