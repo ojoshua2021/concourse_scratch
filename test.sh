@@ -1,0 +1,2 @@
+echo "Printing environment..."
+env
